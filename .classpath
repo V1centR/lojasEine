@@ -17,5 +17,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="packages/jstl-1_1-mr2-api.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
